@@ -1,2 +1,2 @@
-# xiaomi_device_rolex
-Device tree for rolex
+# device_tree_rova
+Device tree xiaomi redmi 4A+redmi 5A(Unified)
